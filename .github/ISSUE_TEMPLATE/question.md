@@ -1,6 +1,6 @@
 ---
 name: ❓ Questions/Help
-about: If you have questions, please check the Aragon Spectrum Community, Aragon Hack or Aragon Forum.
+about: If you have questions, please check the [Aragon Forum](https://forum.aragon.org) Aragon Spectrum Community, Aragon Hack or Aragon Forum.
 title: "[DATE]: [FEATURE NAME]"
 ---
 
